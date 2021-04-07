@@ -8,5 +8,12 @@
       "name": "PayU",
       "homepage": "http://developers.payu.com/"
     }
-  ]
+  ],
+  "support": {
+    "docs": "http://developers.payu.com/",
+    "email": "help@payu.pl",
+    "issues": "https://github.com/PayU-EMEA/plugin_prestashop/issues",
+    "source": "https://github.com/PayU-EMEA/plugin_prestashop"
+  },
+  "type": "prestashop-module"
 }
